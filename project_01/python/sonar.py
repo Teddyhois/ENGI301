@@ -1,6 +1,6 @@
 """
 --------------------------------------------------------------------------
-Guest Counter
+sonar
 --------------------------------------------------------------------------
 License:   
 Copyright 2019 Teddy Hoisington
@@ -31,11 +31,8 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------
 
-Use the HT16K33 Display and a button to create a digital people counter
-
-Requirements:
-  - Increment the counter by one each time the button is pressed
-  - If button is held for more than 5s, reset the counter
+Uses the adafruit_hcsr04 library to measure distances with two HC-Sr04 
+ultrasonic sensors
 
 """
 
