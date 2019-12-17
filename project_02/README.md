@@ -1,3 +1,3 @@
 # Guest Counter PCB
 
-The repository for my Guest Counter PCB Project.
+The Guest Counter is a device that uses two IR distance sensors to sense people walking into a room. When a person is detected, a short jingle plays through a speaker and the total number of people in the room, people who entered the room, and people who exited the room are updated and displayed on an OLED display. The user can reset the tallies by holding down the push button on the board.
