@@ -987,6 +987,8 @@ chip</description>
 </symbols>
 <devicesets>
 <deviceset name="POCKETBEAGLE" prefix="U">
+<description>Pocketbeagle
+Compact Linux board based off of Beaglebone</description>
 <gates>
 <gate name="G$1" symbol="POCKETBEAGLE" x="0" y="0"/>
 </gates>
@@ -1089,6 +1091,8 @@ chip</description>
 </devices>
 </deviceset>
 <deviceset name="MIKROE_CLICK" prefix="U">
+<description>Mikroe OLED Click board
+96x96 pixel display</description>
 <gates>
 <gate name="G$1" symbol="MIKROE_CLICK" x="15.24" y="22.86"/>
 </gates>
@@ -1119,6 +1123,7 @@ chip</description>
 </devices>
 </deviceset>
 <deviceset name="JST" prefix="J">
+<description>Male 3-pin JST connector to mount Analog IR sensor</description>
 <gates>
 <gate name="G$1" symbol="JST_HEADER" x="2.54" y="5.08"/>
 </gates>
@@ -1136,6 +1141,7 @@ chip</description>
 </devices>
 </deviceset>
 <deviceset name="PUSH-BUTTON" prefix="S">
+<description>Generic Push Button</description>
 <gates>
 <gate name="G$1" symbol="SWITCH" x="7.62" y="5.08"/>
 </gates>

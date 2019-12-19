@@ -3,8 +3,8 @@
 "FUD1";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_40MIL";"";"";"";"";"";"";
 "FUD2";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_40MIL";"";"";"";"";"";"";
 "FUD3";"FIDUCIAL";"FIDUCIAL";"FIDUCIAL_40MIL";"";"";"";"";"";"";
-"JST1";"JST";"JST";"JST_HEADER";"";"";"";"";"";"";
-"JST2";"JST";"JST";"JST_HEADER";"";"";"";"";"";"";
+"JST1";"JST";"JST";"JST_HEADER";"Male 3-pin JST connector to mount Analog IR sensor";"";"";"";"";"";
+"JST2";"JST";"JST";"JST_HEADER";"Male 3-pin JST connector to mount Analog IR sensor";"";"";"";"";"";
 "MGT1";"MOUNTING_HOLE";"MOUNTING_HOLE";"MOUNTING_HOLE";"Chassis Mounting Hole w/GND connection ability";"";"";"";"";"";
 "MGT2";"MOUNTING_HOLE";"MOUNTING_HOLE";"MOUNTING_HOLE";"Chassis Mounting Hole w/GND connection ability";"";"";"";"";"";
 "MGT3";"MOUNTING_HOLE";"MOUNTING_HOLE";"MOUNTING_HOLE";"Chassis Mounting Hole w/GND connection ability";"";"";"";"";"";
@@ -14,6 +14,6 @@
 "R3";"2.2k";"R_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";
 "R4";"2.2k";"R_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";
 "R5";"2.2k";"R_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";
-"S1";"PUSH-BUTTON";"PUSH-BUTTON";"BUTTON_12.5MM";"";"";"";"";"";"";
-"U1";"POCKETBEAGLE";"POCKETBEAGLE";"POCKETBEAGLE";"";"";"";"";"";"";
-"U2";"MIKROE_CLICKLARGE";"MIKROE_CLICKLARGE";"MIKROE_BUS_LARGE";"";"";"";"";"";"";
+"S1";"PUSH-BUTTON";"PUSH-BUTTON";"BUTTON_12.5MM";"Generic Push Button";"";"";"";"";"";
+"U1";"POCKETBEAGLE";"POCKETBEAGLE";"POCKETBEAGLE";"Pocketbeagle, Compact Linux board based off of Beaglebone";"";"";"";"";"";
+"U2";"MIKROE_CLICKLARGE";"MIKROE_CLICKLARGE";"MIKROE_BUS_LARGE";"Mikroe OLED Click board 96x96 pixel display";"";"";"";"";"";

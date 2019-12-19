@@ -687,6 +687,7 @@ chip</description>
 </symbols>
 <devicesets>
 <deviceset name="POCKETBEAGLE" prefix="U">
+<description>Pocketbeagle, Compact Linux board based off of Beaglebone</description>
 <gates>
 <gate name="G$1" symbol="POCKETBEAGLE" x="0" y="0"/>
 </gates>
@@ -773,6 +774,7 @@ chip</description>
 </devices>
 </deviceset>
 <deviceset name="MIKROE_CLICK" prefix="U">
+<description>Mikroe OLED Click board 96x96 pixel display</description>
 <gates>
 <gate name="G$1" symbol="MIKROE_CLICK" x="15.24" y="22.86"/>
 </gates>
@@ -866,6 +868,7 @@ chip</description>
 </devices>
 </deviceset>
 <deviceset name="PUSH-BUTTON" prefix="S">
+<description>Generic Push Button</description>
 <gates>
 <gate name="G$1" symbol="SWITCH" x="7.62" y="5.08"/>
 </gates>
@@ -1042,6 +1045,7 @@ DIN A3, landscape with location and doc. field</description>
 </symbols>
 <devicesets>
 <deviceset name="JST" prefix="J">
+<description>Male 3-pin JST connector to mount Analog IR sensor</description>
 <gates>
 <gate name="G$1" symbol="JST_HEADER" x="2.54" y="5.08"/>
 </gates>
@@ -1125,6 +1129,8 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="236.22" y1="154.94" x2="236.22" y2="86.36" width="0.8128" layer="97"/>
 <wire x1="10.16" y1="63.5" x2="119.38" y2="63.5" width="0.8128" layer="97"/>
 <text x="15.24" y="53.34" size="5.08" layer="97">Mounting Holes and Fiducials</text>
+<text x="313.436" y="20.32" size="2.286" layer="94">Theodore Hoisington</text>
+<text x="325.12" y="5.08" size="2.286" layer="94">1</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="45.72" y="76.2" smashed="yes">
